@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diogosevilha
+- 👀 I’m interested in moleling and simulation topics
+- 🌱 I’m currently learning C++ and Financial Quantitative Topics
+- 💞️ I’m looking to collaborate on Machine Learning, Research and Quantitative projects
+- 📫 How to reach me: diogo.couto@alumni.usp.br
