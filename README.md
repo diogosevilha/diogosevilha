@@ -1,5 +1,3 @@
-Hi, I’m @diogosevilha
-- I’m interested in modeling, simulation and CS topics
-- I’m currently learning/applying GoLang, ScikitLearn,TensorFlow and Financial Quantitative Topics.
+Hi, I'm Diogo Sevilha, a Data Science professional focused on Financial Risk Management. I have experience in both Data Science and Engineering, primarily working in financial risk analysis. Currently, I'm pursuing a Master's in Applied Mathematics and Computational Finance at ITA, and I hold an Engineering degree from USP. I am proficient in Python, C++, C#, and MATLAB, leveraging these skills to develop advanced solutions that drive strategic decision-making.
 
-📫 How to reach me: diogo.couto@alumni.usp.br
+Feel free to reach out: diogo.couto@alumni.usp.br
